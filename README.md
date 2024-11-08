@@ -1,7 +1,8 @@
 # PyQt-tutorial
  
 ### 참고 자료
-|도서명|저자명|출간연도|출판사|
-|------|---|---|---|
-|몬테카를로 시뮬레이션으로 배우는 확률통계 with 파이썬 |장철원|2023|비제이퍼블릭|
-https://wikidocs.net/21923
+|Tutorial|Link|
+|------|---|
+|Qt for Python |[Link](https://doc.qt.io/qtforpython-6/)|
+|PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램 |[Link](https://wikidocs.net/21923)|
+
